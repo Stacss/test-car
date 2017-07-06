@@ -6,7 +6,6 @@
 	<link rel="stylesheet" href="http://autoinostranec.ru/test/css/style.css">
 </head>
 <body>
-<p>test</p>
 	<h1>работа с отправкой данных</h1>
 	<h2>введите данные</h2>
 		<form action="app/chek.php" method="post">
