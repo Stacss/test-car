@@ -1,0 +1,33 @@
+h1 {
+	text-transform: uppercase;
+}
+h2 {
+	color: red;
+}
+h3 {
+	color: green;
+}
+h4 {
+	color: blue;
+}
+p {
+	text-transform: uppercase;
+	font-size: 30px;
+}
+input {
+	width: 300px;
+	height: 30px;
+	border: 2px solid #000;
+	font-size: 30px;
+}
+button {
+	background-color: yellow;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+.marka {
+	border: 2px solid red;
+}
+.marka h4 p{
+	display: inline-block;
+}
